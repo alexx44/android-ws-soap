@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jmunozc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\jmunozc\AndroidStudioProjects\android-ws-soap\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-e2f8166720098b28de71b1da19eb26e9b97590ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\jmunozc\AndroidStudioProjects\android-ws-soap\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="C:\Users\jmunozc\AndroidStudioProjects\android-ws-soap\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies-1941ee4ccffeef49569ff424204e478bb7572e9c.jar" />
+    </item>
+
+</items>
