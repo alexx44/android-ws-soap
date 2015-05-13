@@ -18,7 +18,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
-
+/**<--!Hola Mundo -->**/
 public class MainActivity extends Activity {
 	
 	private EditText txtNombre;
