@@ -28,9 +28,11 @@ public class MainActivity extends Activity {
 	private Button btnEnviar2;
 	private Button btnConsultar;
 	private ListView lstClientes;
+	/**<--! jasdlkasdlka-->**/
 
 
-	
+
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
